@@ -15,7 +15,7 @@ services:
     # Run webserver nginx on port 80
     # Feel free to modify depending what port is already occupied
     ports:
-      - "80:80"
+      - "8000:80"
       #- "443:443"
     #networks:
     #  - invoiceninja
